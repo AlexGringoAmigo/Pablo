@@ -2,4 +2,4 @@
 
 *Курсив*
 
-It is a good day to die 
+**It is a good day to die** 
