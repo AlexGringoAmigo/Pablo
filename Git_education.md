@@ -1,4 +1,4 @@
 # Инструкция по работе с  Git edrit madrit
 
 
-It is a good day to dies
+It is a good day to die
